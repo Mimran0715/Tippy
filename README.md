@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://photos.google.com/share/AF1QipNlIbf3wUzZEnLyL1t_9q7dZPsBzlR_EXRI9Hwte-OQNHyUPwk9WhqTacMcBtP5jA/photo/AF1QipMKqZj9Cu8XBZJdikpb4qjTFmQ7ozf7jeha5HbA?key=SjNjd2s5VnN5b0JDeF9YYzVjSkdxNW1KSGpoSk5B' />
+<iframe src="https://giphy.com/embed/M8zfo9VCUyf3nTyhUV" width="266" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M8zfo9VCUyf3nTyhUV">via GIPHY</a></p>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
