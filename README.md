@@ -25,7 +25,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some difficulties alternating the tip percentage between the default value selected in Settings and the tip amount that could be selected on the main screen of the Tip Calculator.
 
 ## License
 
