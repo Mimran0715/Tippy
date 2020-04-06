@@ -21,7 +21,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src = "https://giphy.com/embed/M8zfo9VCUyf3nTyhUV" alt = "Tippy" >
 <iframe src="https://giphy.com/embed/M8zfo9VCUyf3nTyhUV" width="266" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M8zfo9VCUyf3nTyhUV">via GIPHY</a></p>
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
